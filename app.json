@@ -1,0 +1,21 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "name": "test",
+  "type": "app"
+}

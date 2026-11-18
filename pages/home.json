@@ -1,0 +1,20 @@
+{
+  "children": [
+    {
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "c1",
+      "nodeName": "c1",
+      "ownerId": "6afcfa20f5f5c2ba960e889d",
+      "ownerType": "app",
+      "resourceIdentity": "components/c1",
+      "type": "custom-component"
+    }
+  ],
+  "name": "home",
+  "params": {},
+  "type": "page",
+  "url": "/home",
+  "variables": []
+}
