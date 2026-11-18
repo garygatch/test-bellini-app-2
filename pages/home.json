@@ -10,6 +10,16 @@
       "ownerType": "app",
       "resourceIdentity": "components/c1",
       "type": "custom-component"
+    },
+    {
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "aa",
+      "nodeName": "aa",
+      "ownerName": "aa",
+      "resourceIdentity": "component",
+      "type": "custom-component"
     }
   ],
   "name": "home",
